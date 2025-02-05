@@ -1,1 +1,1 @@
-{"Hello": "print(\"Hello, World!\")", "IP": "import socket\n\ndef print_IP():\n    hostname = socket.gethostname()\n    ip_address = socket.gethostbyname(hostname)\n    print(ip_address)\n\nprint_IP()", "Newfile": "open('newfile.txt', 'w').close()"}
+{"Hello": "print(\"Hello, World!\")", "Newfile": "open('newfile.txt', 'w').close()"}
